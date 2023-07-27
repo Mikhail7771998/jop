@@ -1,0 +1,6 @@
+print('faksf')
+print('faksf')
+print('faksf')
+print('faksf')
+print('faksf')
+print('faksf')
